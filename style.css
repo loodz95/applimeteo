@@ -1,0 +1,24 @@
+body {
+  background-color: darkblue;
+}
+
+#name {
+  font-size: 50px;
+  color: aliceblue;
+}
+#etat {
+  font-size: 50px;
+  color: aliceblue;
+}
+
+#degres {
+  font-size: 50px;
+  color: aliceblue;
+}
+
+.texte {
+  display: flex;
+  color: aliceblue;
+  flex-direction: column;
+  text-align: center;
+}
